@@ -53,9 +53,9 @@ public class ticket_compra extends javax.swing.JFrame {
         jLabel1.setText("ticket");
 
         jLabel2.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
-        jLabel2.setText("super carnes ricky");
+        jLabel2.setText("El Compa Güero");
 
-        jLabel3.setText("Esq. Sabino, Av. Los Encinos 3101, Nuevo Las Puentes ÌII, 66612 Cd Apodaca, N.L. ");
+        jLabel3.setText("Direccionnn");
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
