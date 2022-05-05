@@ -17,4 +17,5 @@
         <maven.compiler.target>15</maven.compiler.target>
         <exec.mainClass>com.mycompany.sivc.Sivc</exec.mainClass>
     </properties>
+    <name>freshfish</name>
 </project>
